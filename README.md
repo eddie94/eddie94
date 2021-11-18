@@ -18,6 +18,7 @@
 
 [![10cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddie94&count_private=true&show_icons=true)
 ](https://github.com/eddie94/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddie94&layout=compact)](https://github.com/eddie94/github-readme-stats)
+
 [![Deep Learning Utils](https://github-readme-stats.vercel.app/api/pin/?username=eddie94&repo=Deep-learning-utils)](https://github.com/eddie94/Deep-learning-utils)
 [![Deep Learning Utils](https://github-readme-stats.vercel.app/api/pin/?username=SYR-Aegis&repo=BrailleOCR)](https://github.com/SYR-Aegis/BrailleOCR)  
 [![Deep Learning Utils](https://github-readme-stats.vercel.app/api/pin/?username=SYR-Aegis&repo=Ratatouille)](https://github.com/SYR-Aegis/Ratatouille)
