@@ -22,7 +22,7 @@
 [![Deep Learning Utils](https://github-readme-stats.vercel.app/api/pin/?username=eddie94&repo=Deep-learning-utils)](https://github.com/eddie94/Deep-learning-utils)
 [![Deep Learning Utils](https://github-readme-stats.vercel.app/api/pin/?username=SYR-Aegis&repo=BrailleOCR)](https://github.com/SYR-Aegis/BrailleOCR)  
 [![Deep Learning Utils](https://github-readme-stats.vercel.app/api/pin/?username=SYR-Aegis&repo=Ratatouille)](https://github.com/SYR-Aegis/Ratatouille)
-[![Deep Learning Utils](https://github-readme-stats.vercel.app/api/pin/?username=SYR-Aegis&repo=Ratatouille)](https://github.com/SYR-Aegis/Ratatouille)
+[![Deep Learning Utils](https://github.com/eddie94/VisionGYM)](https://github.com/eddie94/VisionGYM)
 
 <h3>✨Publications✨</h3>
 
